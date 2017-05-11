@@ -1,0 +1,25 @@
+{
+  "name": "countwords",
+  "version": "1.0.0",
+  "description": "Count each words in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekieltech/count-words-day-two.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Obhafuoso Ezekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekieltech/count-words-day-two/issues"
+  },
+  "homepage": "https://github.com/ezekieltech/count-words-day-two#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
